@@ -6,7 +6,7 @@
 
 ##### What is the framing question of your analysis, or the purpose of the model/system you plan to build?
   
-The purpose of the model I built is to determine the top 10 stations by foot traffic, in order to best place our client’s, WTWY, street teams.
+The purpose of the model I built is to determine the top 10 stations by foot traffic and ***with a high number of tech companies***, in order to best place our client’s, WTWY, street teams.
 
 ##### Who benefits from exploring this question or building this model/system?
 
@@ -42,6 +42,7 @@ The features I would be working with are as follows:
     * Represents the date (MM-DD-YY)
 * STATION
     * Represents the station name the device is located at
+    * ***Check the mainly tech companies offices' locations to filter out the station list***
 
 
 **Data columns  (total 11 columns):** 
@@ -61,7 +62,7 @@ The features I would be working with are as follows:
 
 
 ##### If modeling, what will you predict as your target?
-The target of the modeling will be a ranking of the time period at stations that had the highest foot traffic. 
+The target of the modeling will be a ranking of the time period at stations that had the highest foot traffic and with a high number of tech companies. 
 (For example, number 1 might be 4-8pm at 59th ST on weekdays.)
 
 
