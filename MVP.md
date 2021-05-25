@@ -17,7 +17,7 @@ I analyze both of daily Entries and Exits data as Daily Activities for ploting t
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/MVP_Chart_2.png" width = "500" height = "305">
+<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/MVP_Chart_2.png" width = "600" height = "305">
 
 
 ### Chart 2 (Top_15_Stations) tells us:
