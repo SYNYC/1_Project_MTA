@@ -12,7 +12,7 @@ I analyze both of daily Entries and Exits data as Daily Activities for ploting t
 ### Chart 1 (Daily_Activity_59ST) tells us :
   1. Each line with different colors represents one week of riderships from the first week of March to the mid of May (total 11 weeks) at 59 ST station.
   2. Riderships double down on Saturdays and almost triple down on Sundays.
-  3. Weekdays are much more passengers than weekends, so we'd recommend our client to place their street stands on weekdays only.
+  3. Weekdays have much more passengers than weekends, so we'd recommend our client to place their street stands on weekdays only.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
