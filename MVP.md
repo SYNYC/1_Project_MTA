@@ -7,6 +7,8 @@
 I analyze both of daily Entries and Exits data as Daily Activities for ploting the following charts:
 
 
+<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/MVP_Chart_1.png" width = "450" height = "305">
+
 
 ### Chart 1 tells us:
   1. Each line with different colors represents one week of riderships from the first week of March to the mid of May (total 11 weeks) at 59 ST station.
@@ -14,6 +16,8 @@ I analyze both of daily Entries and Exits data as Daily Activities for ploting t
   3. Weekdays are much more passengers than weekends, so we'd recommend our client to place their street stands on weekdays only.
 
 
+
+<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/MVP_Chart_2.png" width = "500" height = "305">
 
 
 ### Chart 2 tells us:
