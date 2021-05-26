@@ -1,5 +1,6 @@
-# Project 1  MTA   
-## _Project Proposal_
+# Project Proposal
+
+##### Sabrina Yang
 
 
 ## Question & need:
