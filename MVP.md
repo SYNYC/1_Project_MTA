@@ -1,10 +1,10 @@
-# Project 1  MTA     
-## _MVP_
+# MVP
+##### Sabrina Yang
 
 
 ## Analysis of NYC MTA Daily Activities:
 
-I analyze both of daily Entries and Exits data as Daily Activities for ploting the following charts:
+We analyze both of daily ENTRIES and EXITS data as DAILY ACTIVITY for ploting the following charts:
 
 
 <img src="https://github.com/SYNYC/1_Project_MTA/blob/master/MVP_Chart_1.png" width = "450" height = "305">
@@ -20,10 +20,10 @@ I analyze both of daily Entries and Exits data as Daily Activities for ploting t
 <img src="https://github.com/SYNYC/1_Project_MTA/blob/master/MVP_Chart_2.png" width = "600" height = "305">
 
 
-### Chart 2 (Top_15_Stations) tells us:
+### Chart 2 (Top_20_Stations) tells us:
   1. Top 3 stations that had the highest foot traffic during March to May 2021 are 34 ST Penn Station, 86 ST and 125 ST.
   2. From the ranking # 2 to # 4 (34 ST Herald Sq) stations have roughly the same amounts of daily activites, and the #5 (23 ST) and #6 (14 ST Union Sq) are about the same. 
-  3. As the next step is to filter out some stations which are out-of-range of major Tech offices area, this Top 15 stations list can help me to cut down from 15 to only 10 or less target stations to provide for our client's need.
+  3. As the next step is to filter out some stations which are out-of-range of major Tech offices area, this list can help me to cut down to less than 10 or target stations to meet our client's need.
   
 
 
