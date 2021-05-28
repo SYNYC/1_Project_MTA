@@ -25,9 +25,9 @@ The dataset contains 2299530 rows with 11 features for each, 2 of which are nume
 
  
 ## Algorithms
-*Data Manipulation and Exploratory Data Analysis*
+#### *Data Manipulation and Exploratory Data Analysis*
 
-1.	Cleaned data and removed duplicate entries, which repeat in the same turnstile and were created by human error (regular/recover aud under DESC column)
+1.	Cleaned data and removed duplicate entries, which repeat in the same turnstile and were possibly created by human error (*regular/recover aud under DESC column*)
 2.	Calculated the difference between the cumulative entries and exits and converted to a daily/hourly unit, which included writing a function to reverse incorrect records
 3.	Defined Daily Activity as the sum of entries and exits and is used as the main unit of measure
 4.	Analyzed daily activity by weeks and determined that weekdays have higher foot traffic than weekends. Within the weekdays, Fridays were the highest
@@ -46,9 +46,11 @@ The results of the analyses will be communicated via data visualization in a Pow
 
 
 
+<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/charts/all%20station-weekly%20average.png" width = "450" height = "305">
 
+<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/charts/all_station.png" width = "600" height = "305">
 
+<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/charts/Top20_tech.png.png" width = "600" height = "305">
 
-
-
+<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/charts/Hour_34Penn.png" width = "600" height = "305">
 
