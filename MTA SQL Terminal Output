@@ -1,0 +1,33 @@
+Last login: Fri May 28 13:12:04 on ttys001
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Sabrinas-MBP:~ sabrina$ cd /Users/sabrina/Metis/Projects/1_Project_MTA/data 
+(base) Sabrinas-MBP:data sabrina$ sqlite3 mta.db
+SQLite version 3.33.0 2020-08-14 13:23:32
+Enter ".help" for usage hints.
+sqlite> CREATE TABLE mta_data (
+   ...> CA TEXT,
+   ...> UNIT TEXT,
+   ...> SCP TEXT,
+   ...> STATION TEXT,
+   ...> LINENAME TEXT,
+   ...> DIVISION TEXT,
+   ...> DATE TEXT,
+   ...> TIME TEXT,
+   ...> DESC TEXT,
+   ...> ENTRIES INTEGER,
+   ...> EXITS INTEGER,
+   ...> PRIMARY KEY (CA,UNIT,SCP,STATION,LINENAME,DIVISION,DATE,TIME,DESC,ENTRIES,EXITS)
+   ...> );
+sqlite> .mode csv
+sqlite> .import mta_data_all.csv mta_data
+sqlite> CREATE TABLE station_totals_zipcode (
+   ...> STATION TEXT,
+   ...> DAILY_ACTIVITY INTEGER,
+   ...> ZIPCODE INTEGER,
+   ...> PRIMARY KEY (STATION)
+   ...> );
+sqlite> .mode csv
+sqlite> .import station_totals_zipcode.csv mta_data
