@@ -7,7 +7,7 @@
 We analyze both of daily ENTRIES and EXITS data as DAILY ACTIVITY for ploting the following charts:
 
 
-<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/Daily_Activity_59ST.png" width = "450" height = "305">
+<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/Daily_59.png" width = "450" height = "305">
 
 ### Daily_Activity_59ST (Chart 1) tells us :
   1. Each line with different colors represents one week of riderships from the first week of March to the mid of May (total 11 weeks) at 59 ST station.
