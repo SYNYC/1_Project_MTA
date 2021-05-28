@@ -50,7 +50,7 @@ The results of the analyses will be communicated via data visualization in a Pow
 
 <img src="https://github.com/SYNYC/1_Project_MTA/blob/master/charts/all_station.png" width = "600" height = "305">
 
-<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/charts/Top20_tech.png.png" width = "600" height = "305">
+<img src="https://github.com/SYNYC/1_Project_MTA/blob/master/charts/Top20_tech.png" width = "600" height = "305">
 
 <img src="https://github.com/SYNYC/1_Project_MTA/blob/master/charts/Hour_34Penn.png" width = "600" height = "305">
 
